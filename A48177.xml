@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a friend shewing from Scripture, Fathers, and reason, how false that state-maxim is, royal authority is originally and radically in the people.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48177</idno>
+            <idno type="STC">Wing L1655</idno>
+            <idno type="STC">ESTC R12997</idno>
+            <idno type="EEBO-CITATION">13134521</idno>
+            <idno type="OCLC">ocm 13134521</idno>
+            <idno type="VID">97896</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48177)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97896)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 426:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a friend shewing from Scripture, Fathers, and reason, how false that state-maxim is, royal authority is originally and radically in the people.</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy.</term>
+               <term>Divine right of kings.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97896:1"/>
+            <pb facs="tcp:97896:1" rendition="simple:additions"/>
+            <p>A LETTER TO A FRIEND. Shewing From SCRIPTURE, Fathers, AND REASON, HOW FALSE <hi>That State-Maxim is,</hi> Royal Authority is Originally and Radically in the People.</p>
+            <p>
+               <hi>Nullus naſcitur liber ab Imperio.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year. 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:97896:2"/>
+            <pb n="3" facs="tcp:97896:2"/>
+            <head>A LETTER TO A FRIEND: SHEWING From Scripture, Fathers, and Reaſon, how falſe that State-Maxim is, <hi>Royal Authority is Origi<g ref="char:EOLhyphen"/>nally and Radically in the People.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have received the ſeveral Pamphlets (you were pleaſed to ſend me) on the ſubject of the Succeſſion; I have read them over and over, and I am now very well ſatisfied in my own reaſon, that, <hi>The Deſcent of the Crown cannot,</hi> via juris, <hi>be impeached in the Right Line, by any Act whatſo<g ref="char:EOLhyphen"/>ever.</hi> And indeed there is nothing more prevalent with me, againſt the excluſion of the Rightful Heir, than the Principle that muſt be made uſe of, for the effecting of that Enterpriſe. I have been ever told, that all thoſe Statutes that were enacted in the Reigns of <hi>H.</hi> 4. <hi>H.</hi> 5. <hi>H.</hi> 6. <hi>R.</hi> 3. <hi>H.</hi> 7. and <hi>H.</hi> 8. for the ſettlement of the Crown, muſt preſuppoſe, that, <hi>Royal Authority is Origi<g ref="char:EOLhyphen"/>nally and Radically in the People; and from them by conſent derived to the King.</hi> On this ſame Principle muſt our next Parliament then proceed, in caſe their reſolution be, to alter the Cuorſe of Right Succeſſion: or elſe what makes one of your Pamphle<g ref="char:EOLhyphen"/>teers, (a perſon, I am confident, either of the Jeſuitical, or Puritanical Faction) to aſſert, that the power the King hath, is derived from the conſent of the People, in the firſt Conſtitution of the Government. I will give you his very words.</p>
+            <p>
+               <q>As to the Queſtion, whence the Parliament derives the power, let him know, that the Parliament derive their Power and Authority from the ſame original, the King derives his: the King hath not his Power from them, nor they from the King; they both derive their Authority from the conſent of the People in the firſt Conſtitution of the Government, either tacit, or expreſs, or by their expreſs or tacit conſent, in the inſenſible, and little, or great, or more remark<g ref="char:EOLhyphen"/>able Alterations, that the Government hath ſuffered in the courſe of time, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>Out of theſe ſame words you and I may clearly infer, that our Author is an Aſſertor (amongſt other things) of this one Doctrine;</p>
+            <pb n="4" facs="tcp:97896:3"/>
+            <p>
+               <hi>That all Power is originally radically, and formally inherent in the community, and from thence is derived to the King and Parliament.</hi>
+            </p>
+            <p>The Author muſt be a very bold <hi>Britton</hi> that dare write and publiſh ſuch perni<g ref="char:EOLhyphen"/>cious Antimonarchical Stuff. Methinks thoſe Quarters on <hi>Ludgate</hi> ſhould teach him more modeſty. Well, if a Gate be not his Fate, 'tis probable he may at laſt, for his Crows Quill, meet with the Burial of an Aſs. Had I been one of his Cabal, I ſhould have adviſed him, inſtead of the Statute of 13. <hi>Eliz.</hi> to have placed the Act of 13. <hi>Car.</hi> 2. <hi>Regis c.</hi> 1. that is now in force (and long I pray God it may be ſo) to deter ſuch as he for the future, from Treaſonable and Seditious Practiſes, proceeding either from Printing, Writing, Preaching, or malicious and adviſed Speaking.</p>
+            <p>Having given you a ſhort Animadverſion on the Author, and his Doctrine, I think my ſelf obliged (for the Vindication of Truth, and the Monarchy of <hi>En<g ref="char:EOLhyphen"/>gland</hi>) to ſay ſomewhat which may be pertinent, towards the deſtroying of our Authors <hi>Leviathan;</hi> I mean the <hi>Original Soveraign Power of Mr. Multitude:</hi> and for the effecting of this, I ſhall plainly ſet down,</p>
+            <p n="1">1. The Poſition I undertake to make good.</p>
+            <p n="2">2. The Proofs of it, drawn from Scripture, Fathers, and Reaſon.</p>
+            <p>My Poſition then is this—<hi>That God is the immediate Author of Soveraignty in the King, and that he is no Creature of the Peoples making.</hi>
+            </p>
+            <p>Scripture, Fathers and Reaſon ſpeak it clearly, that Soveraign Power refers to God, as to its immediate Author, and Donor: but that it is underivedly, primari<g ref="char:EOLhyphen"/>ly, and natively in the community from thence transferred to Kings: <hi>Ne <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quidem Lucidianum,</hi> not one Syllable. I begin firſt with Holy Scripture, out of which I ſhall produce ſeveral Texts, to prove that the King and his Power are originally, and immediately from God, dependent from him alone, and independent from all o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>
+               <hi>By me Kings reign,</hi> Prov. 8.15. <hi>The power that are, are ordained of God,</hi> Rom. 13.2. <hi>I have ſaid ye are Gods,</hi> Pſal. 82.8. <hi>All power is given from above,</hi> Joh. 19. <hi>God hath ſpoken it once, twice have I heard it, all power belongeth unto the Lord,</hi> Pſal. 62.11. <hi>When thou ſhalt ſay, I will ſet a King over me, like as all the Nations about me, thou ſhalt in any wiſe ſet him King over thee, whom the Lord thy God ſhall chuſe.</hi> And to deſcend to Particulars, doth not God by the mouth of his Prophet <hi>Nathan,</hi> tell <hi>David?
+<note place="margin">2 Sam. 12. 1 King. 2.</note> I anointed thee King over Iſrael.</hi> Doth not <hi>Solomon</hi> acknowledge that the Lord hath eſtabliſhed <hi>him, and ſet him on the throne of his Fa<g ref="char:EOLhyphen"/>ther David?</hi> Was it not the ſaying of the Prophet <hi>Abijah</hi> in the per<g ref="char:EOLhyphen"/>ſon of God unto <hi>Jeroboam, I will give the kingdom unto thee;</hi> 1 King. 11. Neither the Kingdom only, and the power of Princes. but all things elſe proper unto them, are after a peculiar manner Gods. Their <hi>Crown,</hi> Pſal. 21. Their <hi>Anoint<g ref="char:EOLhyphen"/>ing,</hi> Pſal. 89. Their <hi>Scepter,</hi> 2 <hi>Chron.</hi> 9. And <hi>Throne</hi> are Gods, and their <hi>perſons</hi> adorned with all theſe are ſo Divine and Sacred, that they themſelves are the <hi>An<g ref="char:EOLhyphen"/>gels of God, and Sons of the moſt high:</hi> 2 Sam. 14. Pſal. 82. Theſe Texts being ſufficient to prove my Poſition from Scripture, I come to the Suffrages of the Fa<g ref="char:EOLhyphen"/>thers, and they aſſert, that the conſtituting and making of Kings is reſerved as a privileged caſe, a proper Prerogative for God himſelf.</p>
+            <p>I begin with <hi>Tertullian,</hi> writing <hi>ad Scapulam,</hi> and he ſaith, That <hi>a Chriſtian is enemy to none, much leſs to King and Emperor, whom he knoweth to be of God's Conſtitu<g ref="char:EOLhyphen"/>tion, and ſo is neceſſarily bound to love, reverence, and honour him, to whom with his Em<g ref="char:EOLhyphen"/>pire he wiſheth all ſafety; for when that periſheth, it is like the world will he at an end; we honour the Emperor therefore ſo much as we are allowed by God's Law, and as much as is expedient for him, as the man, who is next to God himſelf.</hi>
+            </p>
+            <p>
+               <hi>Clemens Romanus Conſtit. l.</hi> 7. <hi>c.</hi> 17. ſays, <hi>Fear,</hi> or <hi>Honour the King, knowing that he is ordained, or conſtituted by the Lord.</hi>
+            </p>
+            <p>
+               <hi>Irenaus</hi> thus, <hi>lib.</hi> 5. <hi>cont. Har. By whoſe appointment they are born men, by his ap<g ref="char:EOLhyphen"/>pointment they are made Princes.</hi>
+            </p>
+            <pb n="5" facs="tcp:97896:3"/>
+            <p>Saint <hi>Hierome</hi>'s mind is this, in his Comment on the ſecond of <hi>Daniel, That Kings and Kingdoms have their conſtitution, change, and deſtitution by the ſole Royal Plea<g ref="char:EOLhyphen"/>ſure of God.</hi>
+            </p>
+            <p>S. <hi>Auſtin</hi> vindicates the making of Kings, abſolutely to God, by a reaſon un<g ref="char:EOLhyphen"/>anſwerable, <hi>Quia ſolus verus Deus eſt; Becauſe he alone is the true God.</hi> His mean<g ref="char:EOLhyphen"/>ing is, you may as well deny him to be the only true God, as robbing him of this Prerogative of making Kings. <hi>Lib.</hi> 4. <hi>de Civit. dei. c.</hi> 33.</p>
+            <p>I will once more cite <hi>Tertullian,</hi> with whom I will conclude; he in his Apologe<g ref="char:EOLhyphen"/>tick againſt the Gentiles, <hi>c.</hi> 30. tells us thus; <hi>Inde eſt Imperator, unde &amp; homo an<g ref="char:EOLhyphen"/>tequam Imperator; inde poteſtas illi, unde &amp; ſpiritus. Thence has the Emperor his power whence his ſpirit.</hi> And that is by God only, who infuſed into him his Soul by crea<g ref="char:EOLhyphen"/>ting it.</p>
+            <p>You ſee, that God in the Divinity of theſe five Fathers, is the immediate Au<g ref="char:EOLhyphen"/>thor, and Creator of Soveraignty in Kings and Princes; who in preheminence are next to God, above all; their authority ſubordinate to, co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ordinate with none. I fear, if theſe Holy Fathers were living now adays, they would be traduced as Court Paraſites, or Penſioners.</p>
+            <p>But after all this, our Conſiderator, or you for him, may object, that if the So<g ref="char:EOLhyphen"/>veraign Power of Princes be thus wholly from God; how is it ſaid in Scripture, that ſome of the Kings were made by the People, and ſo received their Regal Power from them, and by their Election. It is ſaid of <hi>Saul,</hi> that <hi>All the people went to Gilgal, and there made him king before the Lord.</hi> Of <hi>David, The men of Judah anointed David king of Judah; the elders of Iſrael anointed David king over Iſrael:</hi> 1 Sam 11.15. 2 Sam. 5. It is anſwered, <hi>Zadock</hi> the Prieſt, and <hi>Nathan</hi> the Pro<g ref="char:EOLhyphen"/>phet anointed <hi>Solomon</hi> King, and the Lord alſo anointed him, otherwiſe he had not been the <hi>Lord's Anointed,</hi> but the anointed of <hi>Zadock</hi> and <hi>Nathan.</hi> The Lord anointed <hi>Solomon,</hi> as the Maſter of the Subſtance, and gave unto him Regal Power; <hi>Zadock</hi> and <hi>Nathan</hi> anointed <hi>Solomon,</hi> as <hi>Maſter</hi> of the <hi>Ceremony,</hi> and declared God had given him this power. For outward Unction doth not confer upon Kings their Authority; but it is a ſign only of Soveraignty; becauſe if we pour Oil into the ſame Veſſel with any other Liquor, it will be alway upper<g ref="char:EOLhyphen"/>moſt.</p>
+            <p>The Elders then of <hi>Judah</hi> and <hi>Iſrael anointing David King,</hi> did manifeſt him to be their King; but did not give unto him the Right unto his Kingdom; this was only from <hi>the Lords appointing.</hi>
+            </p>
+            <p>In like manner, <hi>Saul</hi> firſt <hi>anointed by the Lord, to be Captain over his Inheritance:</hi> 1 Sam. 19. upon the Petition of the People, was ſet a King over them by the Lord, and choſen immediately by God to be a King; he only gave <hi>Saul</hi> Kingly Power, and not the People; and therefore when it is ſaid, <hi>That the people made Saul king;</hi> it muſt be underſtood, that they only did put <hi>Saul</hi> into the poſſeſſion of the Kingdom to reign over them.</p>
+            <p>But our Author may object further, and ſay thus, admit the power of Princes be not from the People, yet it is often derived unto them from their Progenitors by ſucceſſion, or obtained by their own Conqueſt, how then is it only and immedi<g ref="char:EOLhyphen"/>ately from God.</p>
+            <p>I return this Anſwer; that Succeſſion and lawful Conqueſt are Titles whereby Princes receive their Authority, they are not the original and immediate Fountain of this Authority. Heat, moiſture, cold, drineſs, and our temper ariſing from them (whilſt we are faſhioned in our Mothers womb) are preparatives whereby our Bodies are made Receptacles for our Souls; but the Creator of our Soul is God: ſo Princes have juſt claim unto their Soveraign Power by the Titles of Succeſſion, and Conqueſt, but the prime Author of their Power is God. In brief, though the Deſignation or Deputation of the perſon be by election, ſucceſſion, conqueſt. <hi>&amp;c.</hi> yet the Royal Power and Soveraignty is from God primarily, formally and immediately, as <hi>Matthias</hi> was deſigned by the Apoſtles ſetting of him apart and
+<pb n="6" facs="tcp:97896:4"/>the falling of the Lot upon him, but the Apoſtolical Power was immediately, and ſolely from Chriſt. So a Woman by her choice and conſent deſigneth her Husband, but the Marital Power and Dominion is only from God. So hat you clearly ſee, that an humane Act may deſign the perſon of a King, but y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the power is confer<g ref="char:EOLhyphen"/>red by God alone. Having anſwered the objections that may be ſtarted by our Author, and clearly evidenced from Scripture, and the Suffrages of ancient Fa<g ref="char:EOLhyphen"/>thers, <hi>That there is no ſupreme, or Royal Power, but from God alone;</hi> and conſequent<g ref="char:EOLhyphen"/>ly he is ſole Donor, and Soveraignty relates to him, as to its immediate Author, come to prove in the third place, by ſeveral reaſons that the Collation, or Dona<g ref="char:EOLhyphen"/>tion of Soveraign Power cannot be from the Community.</p>
+            <p>That God then is the Author of all Government, and Soveraign Power ſhall be manifeſted by theſe Arguments following.</p>
+            <p n="1">1. The ſame, that is Author of all Creatures in their Being and Exiſtence, muſt be Author of their Subſiſtence, and preſervation in that Being and Exiſtence. It is an infallible Maxim in the Schools, in Nature, in Scripture; <hi>He that giveth Being, is the ſame that preſerveth Being.</hi> Creation is begun Conſervation, and Conſervation is a continued Creation: we aſſume; things made exiſtent by Creation, cannot ſubſiſt and have continuance, but by order, and Government; from whence it will naturally follow, God muſt be the Author of this Order, and Government; and conſequently hath not left it arbitrary to man (as the <hi>Hobbeans</hi> vainly fancy) by compoſition and conſent to do it. The authority of S. <hi>Auſtin</hi> ſhall be produced to ſtrengthen this Argument: <hi>Generale pactum eſt</hi> (ſays he) <hi>ſocietatis humanae obedire Regibus ſuis:
+<note place="margin">Lib. <hi>3.</hi> Confeſſ. c. <hi>8.</hi>
+                  </note> It is a natural, a general, an univerſal com<g ref="char:EOLhyphen"/>pact, covent of humane ſociety to obey their Kings.</hi> In this Father's Dia<g ref="char:EOLhyphen"/>lect, <hi>Generale pactum</hi> is the Dictate of Nature, the Law and Ordinance of God Almighty; if it be ſo (as indeed it is) I would beg the favour that our Author will ſhew as much for Ariſtocracy, or Democracy, as here is for Monarchy: in caſe he does, he ſhall be my <hi>Apollo</hi> for ever.</p>
+            <p n="2">2. If this Soveraignty be natively inherent in the thing called the <hi>Multitude,</hi> it muſt be proper to every individual of the Community: iſ it be ſo, (and muſt be ſo according to the Tenet of the Sectariſt, which is inforced by that other as ground<g ref="char:EOLhyphen"/>leſs and falſe State Maxim, which they hold, <hi>That every one is born a Free man in the Foreſt;</hi>) then will follow of neceſſity, that the Generation and Poſterity of thoſe who have firſt contracted with their elected King, are not bound to that Covent, but upon their native Right and Liberty may ſtart aſide, appoint another King, and that without breach of Covent, or any juſt Title in the King of their Fathers, to force, or reduce them to his obedience: an excellent way deviſed to preſerve King and Kingdom in peace and ſafety.</p>
+            <p n="3">3. It is abſurd to ſay, and maintain in true Philoſophy, that the Community is the firſt Seat, and Subject in which Soveraignty is immediately fixed? How can it be ſaid ſo, ſeeing in them it was never found, never actuated, never exerciſed? <hi>Vanae eſt potentia, quae nunquam reducitr in Actum.</hi>
+            </p>
+            <p n="4">4. This Tenet of our Author preſuppoſeth, that all men coming into the world, are by the Right and Privilege of nature <hi>originally born equal, independent one from a<g ref="char:EOLhyphen"/>nother, without diſparity or difference one from another.</hi> This is contradictory to the Word of God, which teacheth that God did fix Government in <hi>A<g ref="char:EOLhyphen"/>dam</hi> before the Woman was made,
+<note place="margin">The moſt Lear<g ref="char:EOLhyphen"/>ned men do aſ<g ref="char:EOLhyphen"/>ſert it on that Text in the firſt Chapter of <hi>Geneſis,</hi> verſe. <hi>26.</hi>
+               </note> or Children begotten by him. Is not every one that cometh into the world begotten of a Father? Is he not thus by the Law of God and Nature to ſubmit and ſubject himſelf in reverence and obedience to his Father? Is he not then ſo far from having original power inherent in himſelf, that he hath not his own <hi>original being in the capacity of nature,</hi> but from his Father?</p>
+            <pb n="7" facs="tcp:97896:4"/>
+            <p>How then can he be freed from ſubjection to his Father? and if his Father be ſubject to another, is he not by the ſame Law ſubject to his Fathers Superior? who can make this ſubordination void, except he will ranverſe the Ordinance of God and nature? where then is the veracity of this fallacious Maxim which hath worked ſo much miſchief in our Kingdom, <hi>Every man is born a Freeman in the Foreſt?</hi> Are they not ſubordinate, ſubject to their pre-exiſtent Father, and to his Superiour too, if he have any? Is not the Female Sex by the ordinance of God and nature, inferiour and ſubordinate to the Male? Doth not nature teach that the Wife by the Law of nature is ſubject to the Husband? it did ſo in my great Grandfathers days, whether it does ſo now or not, let our Author give you an anſwer; for I ſuppoſe him to be a married man, or Widower with Children, ſeeing he is ſo careful of po<g ref="char:EOLhyphen"/>ſterity.</p>
+            <p n="5">5. If all power be originally in the People, then it will by conſequence follow, that the lawful authority of a Father over his Children, and a Husband over his Wife, are derived from the Children and Wife, and the Children and Wife in ſome Caſes may reſume their power, derived from them and their native Liberty. If our Author will aver ſo, he is to be cudgelled, not to be anſwered.</p>
+            <p>The ſixth and laſt Argument: God only hath the power of Man's life. No Man is <hi>Dominus vitae ſaae.</hi> Whoſo taketh away the Life of Man, in God's Juſtice and Ordinance, his life is to be taken away again. This principally and properly belongeth to God; but God hath given this to ſome Deputies. This power is not given to every one. This were to deſtroy mankind and make God the God of Diſorder and Confuſion. Some man it is then by diſtinction and excellency, who is God's Deputy, and then this can be none elſe but he, in whom is Soveraign Power; and this power is from none elſe but from God Almighty: and if this power over life be from God, why not all Soveraign Power? ſeeing it is Homo<g ref="char:EOLhyphen"/>geneous, and as Juriſts ſay, <hi>In indiviſibili poſita:</hi> A thing indiviſible in its nature cannot be diſtracted, put away, nor impaired: as a Crown, take any part from it, it is no more a crown.</p>
+            <p>To conclude with the very words of the moſt famous Earl of <hi>Clarendon;</hi> This ſole propoſition, that men cannot diſpoſe of their own lives, hath always been held as a manifeſt and undeniable argument, that Soveraigns never had, nor can have their Power from the People.</p>
+            <p>My Reaſons being thus preſented to you, I will anſwer ſome Arguments, that our Author, I know, is furniſhed with, to prove, that God is not the immedi<g ref="char:EOLhyphen"/>ate Donor, the Author, the Efficient, the Conſtituent of Kings, and their Sove<g ref="char:EOLhyphen"/>raign Power. And his Arguments, (which indeed you will find to be meer Paro<g ref="char:EOLhyphen"/>logiſms) Sophiſms, or captious Reaſonings) are ſuch as theſe.</p>
+            <p n="1">1. His firſt Argument may be framed thus; neither the Law of God, or Na<g ref="char:EOLhyphen"/>ture, determine, that Monarchy is the Government, or Ariſtocracy the Govern<g ref="char:EOLhyphen"/>ment, or Democracy the Government; or why one more than more, and ſome few more than many ſhould have the ſupremacy; <hi>ergo</hi> the Donation of the Power, the Collation of Supremacy, is by derivation from the People to the Governor, or Governors.</p>
+            <p>To this Argument, I anſwer thus; It is an Inconſequence; becauſe although I ſhould grant all the Antecedent, and that the ſpecification of the Government, the people deſigning (if ever any people were ſo really to be free of Government, becauſe it is imaginable, let us grant it as real) either one to have the Soveraign<g ref="char:EOLhyphen"/>ty over them, as in Monarchy, or ſome few of the better ſort, as in Ariſtocracy, or many as in Democracy, it will not follow, <hi>ergo,</hi> Soveraignty in one, few, or many, is by derivation and donation from them: becauſe their act in this is only
+<pb n="8" facs="tcp:97896:5"/>to apoint one perſon, or more, or many perſons to be Governor. or Governors for the Government: the Collation of the power followeth upon this deſignation, and deputation of the perſon or perſons, from the immediate Donation and Ordi<g ref="char:EOLhyphen"/>nation of God. As when ſuch and ſuch men are deſigned to Holy Orders, and Functions, the deſignation of the perſon and perſons is the work, and Act of the Church; but the collation of the power is the proper, peculiar and immediate work and act of God, as all knowing and ſound Divines do willingly acknow<g ref="char:EOLhyphen"/>ledge.</p>
+            <p>To reaſon therefore from the power, which deſigneth and deputeth a perſon, or perſons for the charge; to the power of collating, or giving the power it ſelf, is a Sophiſtical Caption, which the Schools call <hi>Figura Dictionis,</hi> where there is a pro<g ref="char:EOLhyphen"/>poſing in the Antecedent in one kind, and concluding in the conſequent in ano<g ref="char:EOLhyphen"/>ther and different kind.</p>
+            <p n="2">2. His ſecond Argument may be this; that which is of that condition, and temper, that it may be enlarged or ſtraitned: that which actually and experiment<g ref="char:EOLhyphen"/>ally is found various and different, it cannot be ſuch by any conſtitution of nature, or Inſtitution of God; but Monarchichal Power is ſuch, <hi>ergo.</hi>
+            </p>
+            <p>The <hi>Major</hi> of his Syllogiſm muſt be ſome way better qualified: otherwiſe it will conculde nothing, or too much, which is the equivalent in the Rules of right Reaſoning to that, to conclude nothing. In the ſame manner I will reaſon, every man hath not a little meaſure of Knowledge, Reaſon or Diſcourſe: but ſome are more, ſome are leſs knowing Men: ſome more, ſome leſs rational, <hi>ergo</hi> know<g ref="char:EOLhyphen"/>ledge, reaſon, <hi>&amp;c.</hi> are not natural to man. The conſequence halts like <hi>Loyala;</hi> becauſe to reaſon, <hi>Ab actu exercito ad actum ſignatum,</hi> or contrariwiſe, will not al<g ref="char:EOLhyphen"/>ways hold; or to reaſon a <hi>potentia ſecunda ad primam vel e contra,</hi> from the dif<g ref="char:EOLhyphen"/>ference in the exerciſe, to conclude a difference or diſparity in the firſt capacity, is inconſequent. To be rational in <hi>the firſt capacity, and natural power,</hi> is eſſential to all men, and equal in all: but <hi>in the uſe, the exerciſe</hi> of the Rational Faculty, there is a vaſt diſparity, becauſe of a great latitude in different actual ability; nature ad<g ref="char:EOLhyphen"/>mits a great variety in the uſe and exerciſe of her natural powers, that all are not a like fitted, and enabled for the ſecond Acts. In the firſt capacity nature is ſo juſt, ſo equal, ſo indulgent to all, that the native firſt Radical Power being of it ſelf in <hi>indiviſibili,</hi> is equal in all; no leſs in the leaſt knowing man, than in him (ſuch is our Author) who in ſharpneſs of wit approacheth neareſt to Angelical and Noetical Spirits.</p>
+            <p>I could give you Inſtances as well in Moral and Divine things as in natural, but for the ſake of Brevity I will pretermit them.</p>
+            <p>The Reſult of what I have ſaid, is this, That ſeeing in things natural, <hi>&amp;c.</hi> this accidental and ſupervenient variety in their exerciſe deſtroyeth not the true Eſſence, and inſeparable eſſentials of things themſelves, but naturally they are uni<g ref="char:EOLhyphen"/>form, and equally the ſame; ſo in the different Monarchies of the world, the di<g ref="char:EOLhyphen"/>ſparity and difference of the exerciſing of Monarchical Power, which is acciden<g ref="char:EOLhyphen"/>tal, maketh them not ſpecifically and eſſentially different, and diverſe. But before I leave this Argument, I muſt entreat you to conſider, that I maintain not, I plead not at this time for a <hi>Diſpotical Soveraignty,</hi> an abſolute Power, ſuch as the great Turk this day exerciſes over his Subjects: I maintain only ſuch Royal, Paternal Soveraignty, as we and our Anceſtors have lived long, and happily under. This as it hath its Royal Prerogatives inherent naturally in the Crown, and inſeparably from it; ſo it trencheth not upon the liberty of the perſon, or the propriety of the Goods of the Subjects, but in and by the lawful and juſt acts of Juriſdiction. In a word, this Government of ours is finely deſcribed by the Royal Pen of King <hi>Charles</hi> the glorious Martyr, writing to the Prince of <hi>Wales, — The next
+<pb n="9" facs="tcp:97896:5"/>main <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hing,</hi> ſays he, <hi>on which your proſperity will depend, and move, is that of Civil Juſtice, wherein the ſettled Laws of theſe Kingdoms, to which you are rightly Heir, are the moſt excellent rules you can govern by; which by an admirable temperament give very much to Subjects In duſtry, Liberty, and Happineſs; and yet reſerve enough to the Majeſty and Prerogative of any King, who owns his People as Subjects, not as Slaves, whoſe ſubjection, as it preſerves their Property, Peace and Safety; ſo it will never dimi<g ref="char:EOLhyphen"/>niſh your Rights, nor their ingenuous Liberties, which conſiſt in the enjoyment of the fruits of their Induſtry, and the benefit of thoſe Laws, to which themſelves have conſen<g ref="char:EOLhyphen"/>ted.</hi>
+            </p>
+            <p>Thus (Sir) I have endeavoured (ſo far as I am able) to vindicate Truth, and his Majeſties Soveraign Power againſt all Papal and Democratical Practiſes, by de<g ref="char:EOLhyphen"/>monſtrating to you from Scripture, Fathers and Reaſon, <hi>That God is the im<g ref="char:EOLhyphen"/>mediate Author of Soveraignty in the King, and that he is no Creature of the Peoples Making.</hi>
+            </p>
+            <p>'Tis high time to put a period to my Letter: I crave your pardon for its length: but before I do ſo, I will, being well aſſured, by reading our Authors Animadverſions throughout, he has beſtrid this Aſs, <hi>the Multitude,</hi> ever ſince Forty One; I will, I ſay, preſent to your view a Catalogue of the Trappings, that this Beaſt is adorn<g ref="char:EOLhyphen"/>ed withal, and they are theſe; That</p>
+            <p>
+               <hi>Royal Authority is original in the Community, from them by conſent derived to Kings immediately, mediately only from God.</hi>
+            </p>
+            <p>
+               <hi>God is no more the Author of Regal, than of Ariſtocratical, or Democratical Power; of ſupreme, than of ſubordinate Command.</hi>
+            </p>
+            <p>
+               <hi>Dominion which is uſurped, and not juſt, while it remains Dominion, and till it be le<g ref="char:EOLhyphen"/>gally again diveſted, refers to God, as to its Author, and Donor, as much as that, which is Hereditary.</hi>
+            </p>
+            <p>
+               <hi>Soveraignty and Power in a King is by conveyance from the People, by a Truſt devolv<g ref="char:EOLhyphen"/>ed upon him; and that it is conditionate, fiduciary, and propertioned according as it plea<g ref="char:EOLhyphen"/>ſeth the Community to entruſt more, or leſs.</hi>
+            </p>
+            <p>
+               <hi>Royal Power in a King is not ſimply ſupreme, but in ſome caſes there is a Co-ordi<g ref="char:EOLhyphen"/>nate Power, or Collateral: nay, that in ſome caſes the King is ſubordinate to the Com<g ref="char:EOLhyphen"/>munity.</hi>
+            </p>
+            <p>
+               <hi>In ſome caſes the King may be reſiſted and oppoſed by violence, force, and Arms, at leaſt in a defenſive way.</hi>
+            </p>
+            <p>
+               <hi>Soveraignty is derived to the King from the People, by communication, ſo that they may reſume it in ſome caſes.</hi>
+            </p>
+            <p>
+               <hi>A private man may make away his perſonal liberty, and enſlave himſelf to another,</hi> er<g ref="char:EOLhyphen"/>go <hi>a People or Multitude may do the like, and inveſt a King with Soveraignty.</hi>
+            </p>
+            <p>
+               <hi>Neither Scripture nor nature determine the ſpecification of Government, nor do they inti<g ref="char:EOLhyphen"/>mate, why this man more than another, or be than a third, or theſe more than thoſe ſhould have the power of Government.</hi>
+            </p>
+            <p>
+               <hi>Every Society of Mankind is a perfect Republick, and conſequently the community may ſupply and rectifie the defects and errors of Soveraignty.</hi>
+            </p>
+            <p>
+               <hi>If there were not ſuch a power and ſuperintendency in the people to ſupply, God hath left Man remedileſs.</hi>
+            </p>
+            <p>
+               <hi>The Right of Dominion is founded in Grace.</hi>
+            </p>
+            <p>Rex eſt major ſingulis, minor univerſis.</p>
+            <p>Quod efficit tale, eſt magis tale: <hi>That which maketh any thing ſuch or ſuch, is in it ſelf much more ſuch or ſuch;</hi> our Author and his Brethren will be ready to aſſume; <hi>but the People make the King, give him all the Power and Majeſty he hath;</hi> ergo <hi>the People are above the King,</hi> &amp;c.</p>
+            <pb n="10" facs="tcp:97896:6" rendition="simple:additions"/>
+            <p>Quiſque naſcitur liber; <hi>Every man is born a Freeman in the Foreſt.</hi>
+            </p>
+            <p>Pray God, we do not inſtead of a Foreſt, come again into a Wood. Theſe Principles are the right way to effect it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
